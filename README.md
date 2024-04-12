@@ -3,11 +3,11 @@
 
 ***
 
-### I want to do 💡
+### I want to 💡
 
 >
-> 🦀 Learn Rust  
-> 👨🏼‍💻 Create a Portfolio / Personal website
+> 👨🏼‍💻 Create a Portfolio / Personal website  
+> 📈 Improve my skills in various programming languages. 
 >
 
 ***
