@@ -3,11 +3,11 @@
 
 ***
 
-### I want to 💡
+### I like to 💡
 
 >
-> 👨🏼‍💻 Create a Portfolio / Personal website  
-> 📈 Improve my skills in various programming languages. 
+> 📈 Improve my skills in various topics (Also non-it related)  
+> 🗺️ Travel the world
 >
 
 ***
@@ -19,6 +19,6 @@
 
 ***
 
-### Im also on Code-Wars 🥋
+### Sometimes I try myself on Code-Wars 🥋
 
  [![Code-Wars](https://www.codewars.com/users/oliver-jenny/badges/large)](https://www.codewars.com/users/oliver-jenny/)
