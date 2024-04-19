@@ -3,11 +3,13 @@
 
 ***
 
-### I like to 💡
+### I like to...
 
 >
 > 📈 Improve my skills in various topics (Also non-it related)  
-> 🗺️ Travel the world
+> 🗺️ Travel the world  
+> 🏔️ Go onto adventures with friends  
+> 📷 Document the world with the help of my camera
 >
 
 ***
