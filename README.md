@@ -6,10 +6,10 @@
 ### I like to...
 
 >
-> 📈 Improve my skills in various topics (Also non-it related)  
+> 📈 Improve my skills in various topics (IT and non-IT related)  
 > 🗺️ Travel the world  
 > 🏔️ Go onto adventures with friends  
-> 📷 Document the world with the help of my camera
+> 📸 Document the world with the help of my camera
 >
 
 ***
@@ -18,9 +18,3 @@
 
 [![Linkedin link](https://img.shields.io/badge/LinkedIn-0c65e3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-jenny-a49613261/)
 [![Outlook](https://img.shields.io/badge/Email-0c65e3?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oliver.jenny@bluemail.ch)
-
-***
-
-### Sometimes I try myself on Code-Wars 🥋
-
- [![Code-Wars](https://www.codewars.com/users/oliver-jenny/badges/large)](https://www.codewars.com/users/oliver-jenny/)
