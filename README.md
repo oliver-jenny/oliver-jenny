@@ -11,6 +11,13 @@
 > 📸 Document the world with the help of my camera
 >
 
+### Projects on my mind...
+
+>
+> 🎯 Create a Website with perfect SEO-Score  
+> 👨🏼‍💻 Create my Portfolio
+>
+
 ***
 
 ### Contact & Links 🔗
@@ -18,4 +25,3 @@
 [![Linkedin link](https://img.shields.io/badge/LinkedIn-0c65e3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-jenny-a49613261/)
 [![Outlook](https://img.shields.io/badge/Email-0c65e3?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oliver.jenny@bluemail.ch)
 [![Website](https://img.shields.io/badge/website-0c65e3?style=for-the-badge&logo=About.me&logoColor=white)](https://oliver-jenny.dev)
-
