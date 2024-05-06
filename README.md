@@ -17,7 +17,7 @@
 
 [![Linkedin link](https://img.shields.io/badge/LinkedIn-0c65e3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-jenny-a49613261/)
 [![Outlook](https://img.shields.io/badge/Email-0c65e3?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oliver.jenny@bluemail.ch)
-[![Website](https://img.shields.io/badge/website-0c65e3?style=for-the-badge&logo=About.me&logoColor=white)](https://oliver-jenny.dev)
+[![Website](https://img.shields.io/badge/Portfolio-0c65e3?style=for-the-badge&logo=About.me&logoColor=white)](https://oliver-jenny.dev)
 
 ### Skills
 
@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
