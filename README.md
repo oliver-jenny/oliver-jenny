@@ -11,13 +11,6 @@
 > 📸 Document the world with the help of my camera
 >
 
-### Projects on my mind...
-
->
-> 🎯 Create a Website with perfect SEO-Score  
-> 👨🏼‍💻 Create my Portfolio
->
-
 ***
 
 ### Contact & Links
