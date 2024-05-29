@@ -1,4 +1,5 @@
-![Screenshot 2024-04-12 at 10-14-41 Untitled design](https://github.com/oliver-jenny/oliver-jenny/assets/75665514/6a0e137d-1943-4a16-ba6b-adb3cc49e01c)
+
+<img width="100%" alt="Bildschirmfoto 2024-05-29 um 15 36 28" src="https://github.com/oliver-jenny/oliver-jenny/assets/75665514/3ee767ef-c759-4fcb-acd9-920b06235b01">
 
 ***
 
