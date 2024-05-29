@@ -7,9 +7,9 @@
 
 >
 > 📈 Improve my skills in various topics (IT and non-IT related)  
-> 🗺️ Travel the world  
-> 🏔️ Go onto adventures with friends  
-> 📸 Document the world with the help of my camera
+> 🗺️ Travel the world    
+> 📸 Document the world with the help of my camera  
+> 🍺 Drink a beer with some friends
 >
 
 ***
