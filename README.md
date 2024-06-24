@@ -1,8 +1,6 @@
 
 <img width="100%" alt="Bildschirmfoto 2024-05-29 um 15 36 28" src="https://github.com/oliver-jenny/oliver-jenny/assets/75665514/3ee767ef-c759-4fcb-acd9-920b06235b01">
 
-***
-
 ### I like to...
 
 >
@@ -36,6 +34,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
@@ -44,3 +43,6 @@
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+![image](https://github.com/oliver-jenny/oliver-jenny/assets/75665514/d9971996-a5d7-4e61-a8d2-cf7970c9ed01)
+
