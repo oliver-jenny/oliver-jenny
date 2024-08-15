@@ -9,8 +9,6 @@
 > Drink a beer with some friends
 >
 
-***
-
 ### Contact & Links
 
 [![Linkedin link](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-jenny-a49613261/)
