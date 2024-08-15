@@ -17,7 +17,7 @@
 [![Outlook](https://img.shields.io/badge/Email-222?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oliver.jenny@bluemail.ch)
 [![Website](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=About.me&logoColor=white)](https://oliver-jenny.dev)
 
-### Skills
+### Technical skillset
 
 #### Languages / Tooling
 ![](https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=white)
