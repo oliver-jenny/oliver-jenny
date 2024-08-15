@@ -15,7 +15,6 @@
 
 [![Linkedin link](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-jenny-a49613261/)
 [![Outlook](https://img.shields.io/badge/Email-222?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oliver.jenny@bluemail.ch)
-[![Website](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=About.me&logoColor=white)](https://oliver-jenny.dev)
 
 ### Technical skillset
 
