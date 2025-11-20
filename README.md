@@ -1,11 +1,12 @@
-# hello world!
+### Oliver
 
-my name is Oliver and I like to experiment around with new technologies / applications and try myself in new skills to challenge myself and learn some cool new stuff.
+> _probably busy trying out something new_
 
-> **in my spare time I like to**  
-> go skiing / snowboarding with friends  
-> try myself in landscape / travel photography  
-> go climbing  
-> or simply have a beer with my mates
+**Currently**  
+B.Sc. Medical Informatics @ FHWN
 
-
+**Interests**  
+- skiing / snowboarding  
+- landscape & travel photography  
+- climbing  
+- sharing a beer with friends
