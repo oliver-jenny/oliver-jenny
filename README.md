@@ -9,5 +9,6 @@ B.Sc. Medical Informatics @ FHWN
 skiing / snowboarding  
 landscape & travel photography  
 climbing  
-sharing a beer with friends
+a beer with friends
+
 
