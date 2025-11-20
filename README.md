@@ -4,8 +4,8 @@ my name is Oliver and I like to experiment around with new technologies / applic
 
 > **in my spare time I like to**  
 > go skiing / snowboarding with friends  
-> go wakeboarding / wakesurfing / kitesurfing / regular surfing  
 > try myself in landscape / travel photography  
 > go climbing  
 > or simply have a beer with my mates
+
 
