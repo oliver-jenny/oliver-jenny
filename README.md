@@ -6,7 +6,7 @@
 B.Sc. Medical Informatics @ FHWN
 
 **Interests**  
-skiing / snowboarding / surfing 
+skiing / snowboarding / surfing  
 landscape & travel photography  
 a beer with friends
 
